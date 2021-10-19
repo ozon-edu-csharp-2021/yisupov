@@ -4,8 +4,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{296A7858-05A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{739983C7-B506-4D0E-87D7-5FCC1BBEC695}"
 ProjectSection(SolutionItems) = preProject
-	Readme.md = Readme.md
-	.gitignore = .gitignore
+	Dockerfile = Dockerfile
 EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C47D120F-D6E7-419C-99BF-1FC0E1B6DC20}"
